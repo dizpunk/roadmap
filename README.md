@@ -6,10 +6,14 @@ This repository contains my up-to-date personal roadmap 🧭
 
 ### Certifications
 - [x] CompTIA [Security+](https://www.comptia.org/certifications/security)
+- [ ] Microsoft Certified: [Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
+
 
 ### Courses
-- [ ] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
+- [ ] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
+- [ ] [Complete Ethical Hacking Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy
+
 
 ### Reading
 - [x] 12 Rules for Life - Jordan Peterson

@@ -11,6 +11,9 @@ This repository contains my up-to-date personal roadmap 🧭
 
 ### Courses
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
+- [ ] [Relational Database](https://www.freecodecamp.org/learn/relational-database/) on FreeCodeCamp
+- [ ] [Information Security](https://www.freecodecamp.org/learn/information-security/) on FreeCodeCamp
+- [ ] [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) on FreeCodeCamp
 - [ ] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
 - [ ] [Complete Ethical Hacking Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy
 

@@ -10,19 +10,21 @@ This repository contains my up-to-date personal roadmap 🧭
 
 
 ### Courses
-- [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
+- [ ] [SOC Level 1](https://tryhackme.com/path/outline/soclevel1)
+- [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming)
 - [ ] [Relational Database](https://www.freecodecamp.org/learn/relational-database/) on FreeCodeCamp
 - [ ] [Information Security](https://www.freecodecamp.org/learn/information-security/) on FreeCodeCamp
+- [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
+- [ ] [JR Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester)
 - [ ] [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) on FreeCodeCamp
 - [ ] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
 - [ ] [Complete Ethical Hacking Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy
-
 
 ### Reading
 - [x] 12 Rules for Life - Jordan Peterson
 - [x] Atomic Habits - James Clear
 - [x] Alice's Adventures in Wonderland - Lewis Carroll
-- [ ] Il Deserto dei Tartari - Dino Buzzati
+- [x] Il Deserto dei Tartari - Dino Buzzati
 - [ ] Bushido, La Via del guerriero
 - [ ] Elogio dell Follia - Erasmo da Rotterdam
 - [ ] The Lord of the Rings (The Fellowship of the Ring, The Two Towers, The Return of the King) - J.R.R. Tolkien

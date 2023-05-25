@@ -19,8 +19,12 @@ This repository contains my up-to-date personal roadmap 🧭
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
 - [ ] [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) on FreeCodeCamp
 - [ ] [Complete Ethical Hacking Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy
+- [ ] [Elements of AI](https://www.elementsofai.com/) from MinnaLearn and the University of Helsinki
+  - [ ] Introduction to AI
+  - [ ] Building AI
 
-### Reading
+
+### Reading List
 - [x] Atomic Habits - James Clear
 - [x] 12 Rules for Life - Jordan Peterson
 - [x] Il Deserto dei Tartari - Dino Buzzati

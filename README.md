@@ -6,12 +6,15 @@ This repository contains my up-to-date personal roadmap 🧭
 
 ### Certifications
 - [x] CompTIA [Security+](https://www.comptia.org/certifications/security)
+- [ ] CEH: [Certified Ethical Hacker](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
 - [ ] Microsoft Certified: [Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
+- [ ] Microsoft Certified: [Security Operations Analyst Associate](https://learn.microsoft.com/en-us/certifications/security-operations-analyst/)
 
 
 ### Courses
 - [ ] [SOC Level 1](https://tryhackme.com/path/outline/soclevel1) on TryHackMe
 - [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming) on TryHackMe
+- [ ] [Web Fundamentals](https://tryhackme.com/path/outline/web) on TryHackMe
 - [ ] [JR Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) on TryHackMe
 - [ ] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
 - [ ] [Relational Database](https://www.freecodecamp.org/learn/relational-database/) on FreeCodeCamp
@@ -25,12 +28,12 @@ This repository contains my up-to-date personal roadmap 🧭
 
 
 ### Reading List
+- [ ] Bushido, La Via del guerriero
 - [x] Atomic Habits - James Clear
 - [x] 12 Rules for Life - Jordan Peterson
 - [x] Il Deserto dei Tartari - Dino Buzzati
-- [x] Alice's Adventures in Wonderland - Lewis Carroll
-- [ ] Bushido, La Via del guerriero
 - [ ] Elogio dell Follia - Erasmo da Rotterdam
-- [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien
+- [x] Alice's Adventures in Wonderland - Lewis Carroll
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
+- [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Return of the King - J.R.R. Tolkien

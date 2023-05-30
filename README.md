@@ -28,7 +28,7 @@ This repository contains my up-to-date personal roadmap 🧭
 
 
 ### Reading List
-- [ ] Bushido, La Via del guerriero
+- [x] Bushido, La Via del guerriero
 - [x] Atomic Habits - James Clear
 - [x] 12 Rules for Life - Jordan Peterson
 - [x] Il Deserto dei Tartari - Dino Buzzati

@@ -16,7 +16,7 @@ This repository contains my up-to-date personal roadmap 🧭
 - [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming) on TryHackMe
 - [ ] [Web Fundamentals](https://tryhackme.com/path/outline/web) on TryHackMe
 - [ ] [JR Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) on TryHackMe
-- [ ] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
+- [x] [Web Security & Bug Bounty](https://www.udemy.com/course/web-security-and-bug-bounty-learn-penetration-testing/) on Udemy
 - [ ] [Relational Database](https://www.freecodecamp.org/learn/relational-database/) on FreeCodeCamp
 - [ ] [Information Security](https://www.freecodecamp.org/learn/information-security/) on FreeCodeCamp
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp

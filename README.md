@@ -32,7 +32,7 @@ This repository contains my up-to-date personal roadmap 🧭
 - [x] Atomic Habits - James Clear
 - [x] 12 Rules for Life - Jordan Peterson
 - [x] Il Deserto dei Tartari - Dino Buzzati
-- [ ] Elogio della Follia - Erasmo da Rotterdam
+- [x] Elogio della Follia - Erasmo da Rotterdam
 - [x] Alice's Adventures in Wonderland - Lewis Carroll
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien

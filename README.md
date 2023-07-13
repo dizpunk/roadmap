@@ -7,6 +7,7 @@ This repository contains my up-to-date personal roadmap 🧭
 ### Certifications
 - [x] CompTIA [Security+](https://www.comptia.org/certifications/security)
 - [ ] CEH: [Certified Ethical Hacker](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+- [ ] Microsoft Certified: [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 - [ ] Microsoft Certified: [Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
 - [ ] Microsoft Certified: [Security Operations Analyst Associate](https://learn.microsoft.com/en-us/certifications/security-operations-analyst/)
 
@@ -21,6 +22,7 @@ This repository contains my up-to-date personal roadmap 🧭
 - [ ] [Information Security](https://www.freecodecamp.org/learn/information-security/) on FreeCodeCamp
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
 - [ ] [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) on FreeCodeCamp
+- [ ] [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az900-azure/) on Udemy
 - [ ] [Complete Ethical Hacking Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy
 - [ ] [Elements of AI](https://www.elementsofai.com/) from MinnaLearn and the University of Helsinki
   - [ ] Introduction to AI

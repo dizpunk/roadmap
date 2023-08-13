@@ -35,6 +35,7 @@ This repository contains my up-to-date personal roadmap 🧭
 - [x] 12 Rules for Life - Jordan Peterson
 - [x] Il Deserto dei Tartari - Dino Buzzati
 - [x] Elogio della Follia - Erasmo da Rotterdam
+- [ ] La variante di Lüneburg - Paolo Maurensig
 - [x] Alice's Adventures in Wonderland - Lewis Carroll
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien

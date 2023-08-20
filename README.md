@@ -7,9 +7,8 @@ This repository contains my up-to-date personal roadmap 🧭
 ### Certifications
 - [x] CompTIA [Security+](https://www.comptia.org/certifications/security)
 - [ ] CEH: [Certified Ethical Hacker](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
-- [ ] Microsoft Certified: [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- [x] Microsoft Certified: [Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 - [ ] Microsoft Certified: [Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
-- [ ] Microsoft Certified: [Security Operations Analyst Associate](https://learn.microsoft.com/en-us/certifications/security-operations-analyst/)
 
 
 ### Courses
@@ -38,5 +37,5 @@ This repository contains my up-to-date personal roadmap 🧭
 - [x] La variante di Lüneburg - Paolo Maurensig
 - [x] Alice's Adventures in Wonderland - Lewis Carroll
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
-- [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Return of the King - J.R.R. Tolkien
+- [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien

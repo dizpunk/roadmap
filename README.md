@@ -22,6 +22,7 @@ This repository contains my up-to-date personal roadmap 🧭
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
 - [ ] [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) on FreeCodeCamp
 - [x] [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az900-azure/) on Udemy
+- [x] [AZ-500: Microsoft Azure Security Technologies](https://www.udemy.com/course/az500-azure/) on Udemy
 - [ ] [Complete Ethical Hacking Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy
 - [ ] [Elements of AI](https://www.elementsofai.com/) from MinnaLearn and the University of Helsinki
   - [ ] Introduction to AI

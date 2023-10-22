@@ -1,5 +1,5 @@
 # Roadmap
-This repository contains my up-to-date personal roadmap 🧭
+My personal up-to-date roadmap 🧭
 
 ## 2023
 ---

@@ -37,8 +37,8 @@ My personal up-to-date roadmap 🧭
 - [x] Elogio della Follia - Erasmo da Rotterdam
 - [x] La variante di Lüneburg - Paolo Maurensig
 - [x] Alice's Adventures in Wonderland - Lewis Carroll
+- [x] The Boy, The Mole, The Fox and The Horse - Charlie Mackesy
 - [ ] Il piccolo principe - Antoine de Saint-Exupéry
-- [ ] The Boy, The Mole, The Fox and The Horse - Charlie Mackesy
 - [ ] The Lord of the Rings, The Fellowship of the Ring - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Return of the King - J.R.R. Tolkien

@@ -9,10 +9,6 @@ My current roadmap for __2k24__ 🧭
 
 
 ### Courses
-- [ ] [SOC Level 1](https://tryhackme.com/path/outline/soclevel1) on TryHackMe
-- [ ] [Red Teaming](https://tryhackme.com/path/outline/redteaming) on TryHackMe
-- [ ] [Web Fundamentals](https://tryhackme.com/path/outline/web) on TryHackMe
-- [ ] [JR Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) on TryHackMe
 - [ ] [Relational Database](https://www.freecodecamp.org/learn/relational-database/) on FreeCodeCamp
 - [ ] [Information Security](https://www.freecodecamp.org/learn/information-security/) on FreeCodeCamp
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on FreeCodeCamp
@@ -25,7 +21,7 @@ My current roadmap for __2k24__ 🧭
 
 ### Bookshelf
 - [x] Pensieri - Marco Aurelio
-- [ ] Le Storie, libro VI - Polibio
+- [x] Le Storie, libro VI - Polibio
 - [ ] White Nights - Fyodor Dostoevsky
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Return of the King - J.R.R. Tolkien

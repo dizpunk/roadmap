@@ -3,7 +3,6 @@ My current roadmap for __2k24__ 🧭
 
 
 ### Certifications
-- [ ] CEH: [Certified Ethical Hacker](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
 - [ ] SSCP: [Systems Security Certified Practitioner](https://www.isc2.org/certifications/sscp)
 - [ ] Microsoft Certified: [Azure Security Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
 

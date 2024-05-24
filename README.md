@@ -21,6 +21,7 @@ My current roadmap for __2k24__ 🧭
 ### Bookshelf
 - [x] Pensieri - Marco Aurelio
 - [x] Le Storie, libro VI - Polibio
+- [x] The Meek One - Fyodor Dostoevsky
 - [ ] White Nights - Fyodor Dostoevsky
 - [ ] The Lord of the Rings, The Two Towers - J.R.R. Tolkien
 - [ ] The Lord of the Rings, The Return of the King - J.R.R. Tolkien
